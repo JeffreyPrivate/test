@@ -1,2 +1,3 @@
 This is my first Git test file to record the first add11
+This is my first Git test file to record the first add1
 This is my first Git test file to record the first add2
